@@ -1,3 +1,8 @@
-# Home
+---
+title: Home title
+description: Home description
+---
 
-Home description here
+# Home Heading
+
+Home text
