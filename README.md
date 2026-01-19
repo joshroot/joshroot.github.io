@@ -1,3 +1,8 @@
-# My GitHub Pages site
+---
+title: Home Title
+layout: default
+---
 
-Description here
+# Home
+
+Home description here
