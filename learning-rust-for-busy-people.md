@@ -3,6 +3,8 @@ title: Learning Rust For Busy People podcast
 description: A podcast for busy people who want to learn and quickly be productive with the Rust programming language.
 ---
 
+![Learning Rust For Busy People cover art](/images/learning_rust_for_busy_people_cover_art_620x620.png)
+
 # Episodes
 
 Episode 1: Introduction
