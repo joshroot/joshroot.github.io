@@ -4,7 +4,7 @@ A podcast for busy people who want to learn and quickly be productive with the R
 
 # Episodes
 
-Episode 1: Introduction
+#1 – Introduction
 
 # Future topics
 
