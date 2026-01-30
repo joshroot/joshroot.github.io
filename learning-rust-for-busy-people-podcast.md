@@ -4,11 +4,11 @@ A podcast for busy people who want to learn and quickly be productive with the R
 
 # Episodes
 
-#1 – Introduction
+* #1 – Introduction
+* #2 – Installing Rust and using Cargo to manage a project
 
 # Future topics
 
-* Install Rust and use Cargo to create a new Rust project
 * Extract text from a Markdown file
 * Replace a string in a file
 
