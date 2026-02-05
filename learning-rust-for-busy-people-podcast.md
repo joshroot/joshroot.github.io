@@ -12,7 +12,7 @@ Introduction episode for the Learning Rust For Busy People podcast.
 
 Overview of installing Rust and using Cargo to create a new project, compile code, and run the executable that’s built. Discussion of differences and similarities in how projects are set up and managed in Rust versus in Python.
 
-RustRover IDE: https://www.jetbrains.com/rust/
+RustRover IDE: [https://www.jetbrains.com/rust/](https://www.jetbrains.com/rust/)
 
 ### #3 – Extracting text from a Markdown file, part 1
 
