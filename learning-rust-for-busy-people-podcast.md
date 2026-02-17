@@ -20,10 +20,15 @@ First practical code example. Use Rust to extract text from a Markdown file. Cov
 
 Code example: [version 1](https://github.com/joshroot/learning-rust-for-busy-people/tree/main/examples/ex001_extract_text_from_markdown_file/v01)
 
+### #4 – Extracting text from a Markdown file, part 2
+
+Use Rust to extract text from a Markdown file, part 2. Covers concepts that include refactoring a program into a binary crate and a library crate for separation of concerns, passing command-line arguments to a program, using a vector, using the “dbg!” macro, the system of “ownership” in Rust, and what it means for a Rust program to “panic”.
+
+Code example: [version 2](https://github.com/joshroot/learning-rust-for-busy-people/tree/main/examples/ex001_extract_text_from_markdown_file/v02)
 
 # Future topics
 
-* Extract text from a Markdown file (enhancements)
+* Extract text from a Markdown file (cleaner error handling)
 * Replace a string in a file
 
 # Practical code examples
