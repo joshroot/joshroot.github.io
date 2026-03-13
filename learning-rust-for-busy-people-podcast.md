@@ -26,9 +26,14 @@ Use Rust to extract text from a Markdown file, part 2. Covers concepts that incl
 
 Code example: [version 2](https://github.com/joshroot/learning-rust-for-busy-people/tree/main/examples/ex001_extract_text_from_markdown_file/v02)
 
+### #5 – Extracting text from a Markdown file, part 3
+
+Use Rust to extract text from a Markdown file, part 3. Covers concepts that include how to implement error handling by treating problems as either “unrecoverable” errors (by calling the “panic!” macro) or “recoverable” errors (by returning a “Result” enum), how to propagate errors using the question mark operator, and how to specify return types and return values for functions.
+
+Code example: [version 3](https://github.com/joshroot/learning-rust-for-busy-people/tree/main/examples/ex001_extract_text_from_markdown_file/v03)
+
 # Future topics
 
-* Extract text from a Markdown file (cleaner error handling)
 * Replace a string in a file
 
 # Practical code examples
