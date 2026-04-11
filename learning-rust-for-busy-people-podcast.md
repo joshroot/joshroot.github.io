@@ -40,7 +40,7 @@ Code example: [version 1](https://github.com/joshroot/learning-rust-for-busy-peo
 
 # Future topics
 
-* Replace a string in a file
+* Create miniature version of the "sed" command-line utility (in progress)
 
 # Practical code examples
 
