@@ -32,6 +32,12 @@ Use Rust to extract text from a Markdown file, part 3. Covers concepts that incl
 
 Code example: [version 3](https://github.com/joshroot/learning-rust-for-busy-people/tree/main/examples/ex001_extract_text_from_markdown_file/v03)
 
+### #6 – minised, part 1
+
+Use Rust to develop a miniature version of the “sed” command-line utility, part 1. Covers topics that include a subset of functionality for the “sed” command-line utility that’s used for replacing text, the scope of features that we’ll include in the miniature “sed” utility that we’re building, how to define a “struct” in Rust, how to leverage the “Option” enum for a value that may be either something or nothing, how to instantiate a “struct” in Rust via an associated function in an implementation block, how to bring a “struct” into scope in the binary crate, and how to use the “unwrap_or_else” method on a “Result” enum and define a “closure”.
+
+Code example: [version 1](https://github.com/joshroot/learning-rust-for-busy-people/tree/main/examples/ex002_minised/v01)
+
 # Future topics
 
 * Replace a string in a file
