@@ -38,9 +38,15 @@ Use Rust to develop a miniature version of the “sed” command-line utility, p
 
 Code example: [version 1](https://github.com/joshroot/learning-rust-for-busy-people/tree/main/examples/ex002_minised/v01)
 
+### #7 – minised, part 2
+
+Use Rust to develop a miniature version of the “sed” command-line utility, part 2. Covers topics that include an update to the level of detail covered in the podcast, considerations when selecting the name “build” or “new” for a constructor function that is associated with a “struct”, differences between the Python Standard Library and Rust Standard Library when it comes to functionality for command-line interfaces and parsing command-line arguments, using “de-structuring” to create and assign values to multiple variables simultaneously, using the “clone” method to make a “deep copy”, defining a custom “enum” type, several string-related methods (such as “split”, “match_indices”, and “split_at”), using “match” expressions, reading from standard input, using the “format!” macro to create new strings, and converting between “Strings” and “string slices”.
+
+Code example: [version 1](https://github.com/joshroot/learning-rust-for-busy-people/tree/main/examples/ex002_minised/v01)
+
 # Future topics
 
-* Create miniature version of the "sed" command-line utility (in progress)
+* Unit tests for the miniature version of the "sed" command-line utility
 
 # Practical code examples
 
